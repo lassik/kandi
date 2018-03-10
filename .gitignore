@@ -1,0 +1,12 @@
+*-eps-converted-to.pdf
+*.aux
+*.bbl
+*.blg
+*.dvi
+*.glo
+*.idx
+*.log
+*.pdf
+*.toc
+*~
+.DS_Store
